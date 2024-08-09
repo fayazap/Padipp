@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #acd28e, #d9eff5); /* Gradient background */
+}
+
+.app-center{
+    text-align: center;
+}
